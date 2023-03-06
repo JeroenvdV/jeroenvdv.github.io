@@ -2,7 +2,8 @@
 title: Jeroen van de Ven;
 subtitle: Software Engineer
 email: jeroen [at] <this domain>
-description: I'm an experienced, passionate software engineer with a feel for entrepreneurship
+description: >
+  I'm an experienced, passionate software engineer with a feel for entrepreneurship :rocket:
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jeroenvandeven.nl # the base hostname & protocol for your site
 author: Jeroen van de Ven
@@ -42,3 +43,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+plugins:
+  - jemoji

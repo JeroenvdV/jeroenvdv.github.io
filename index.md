@@ -8,4 +8,6 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hi, my name is Jeroen van de Ven, and I develop software with love :heart:
+
+In addition to working on my own projects, I provide professional services to help *you* achieve your software-related goals. Feel free to get in touch right away to discuss your needs, or look around my site for a selection of services.
