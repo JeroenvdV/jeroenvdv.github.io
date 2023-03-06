@@ -1,8 +1,8 @@
 # site settings
-title: Jeroen van de Ven's
-subtitle: Homepage
+title: Jeroen van de Ven;
+subtitle: Software Engineer
 email: jeroen [at] <this domain>
-description: My website where I describe my professional services
+description: I'm an experienced, passionate software engineer with a feel for entrepreneurship
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jeroenvandeven.nl # the base hostname & protocol for your site
 author: Jeroen van de Ven
